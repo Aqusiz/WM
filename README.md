@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# WM 과제: CRUD operations with Grid UI
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
